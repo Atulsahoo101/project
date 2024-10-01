@@ -1,0 +1,1751 @@
+body{
+  background-color: #000000;
+  padding-left:10%;
+}
+
+.element {
+  position: relative;
+ height: 100vh;
+}
+
+
+
+.element .overlap {
+  position: absolute;
+  width: 384px;
+  height: 289px;
+  top: 453px;
+  left: 244px;
+  background-image: url(./img/rectangle-74.png);
+  background-size: 100% 100%;
+}
+
+.element .vector {
+  position: absolute;
+  width: 105px;
+  height: 129px;
+  top: 145px;
+  left: 37px;
+}
+
+.element .img {
+  position: absolute;
+  width: 112px;
+  height: 165px;
+  top: 3px;
+  left: 214px;
+}
+
+.element .overlap-group {
+  position: absolute;
+  width: 384px;
+  height: 288px;
+  top: 1137px;
+  left: 244px;
+  background-image: url(./img/rectangle-75.png);
+  background-size: 100% 100%;
+}
+
+.element .vector-2 {
+  position: absolute;
+  width: 112px;
+  height: 164px;
+  top: 6px;
+  left: 214px;
+}
+
+.element .vector-3 {
+  position: absolute;
+  width: 105px;
+  height: 130px;
+  top: 144px;
+  left: 37px;
+}
+
+.element .div {
+  position: absolute;
+  width: 384px;
+  height: 287px;
+  top: 1821px;
+  left: 244px;
+  background-image: url(./img/rectangle-72.png);
+  background-size: 100% 100%;
+}
+
+.element .vector-4 {
+  position: absolute;
+  width: 112px;
+  height: 164px;
+  top: 5px;
+  left: 214px;
+}
+
+.element .vector-5 {
+  position: absolute;
+  width: 105px;
+  height: 130px;
+  top: 143px;
+  left: 37px;
+}
+
+.element .overlap-2 {
+  position: absolute;
+  width: 384px;
+  height: 288px;
+  top: 795px;
+  left: 244px;
+  background-image: url(./img/rectangle-76.png);
+  background-size: 100% 100%;
+}
+
+.element .vector-6 {
+  position: absolute;
+  width: 112px;
+  height: 164px;
+  top: 4px;
+  left: 214px;
+}
+
+.element .overlap-3 {
+  position: absolute;
+  width: 384px;
+  height: 289px;
+  top: 1478px;
+  left: 244px;
+  background-image: url(./img/rectangle-71.png);
+  background-size: 100% 100%;
+}
+
+.element .overlap-4 {
+  position: absolute;
+  width: 36px;
+  height: 1935px;
+  top: 553px;
+  left: 966px;
+}
+
+.element .line {
+  position: absolute;
+  width: 2px;
+  height: 1935px;
+  top: 0;
+  left: 19px;
+}
+
+.element .ellipse {
+  position: absolute;
+  width: 26px;
+  height: 20px;
+  top: 34px;
+  left: 5px;
+  background-color: #f1ae12;
+  border-radius: 13px/10px;
+  transform: rotate(90deg);
+}
+
+.element .ellipse-2 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 376px;
+  left: 4px;
+  background-color: #f1ae12;
+  border-radius: 13.5px/10px;
+  transform: rotate(90deg);
+}
+
+.element .ellipse-3 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 718px;
+  left: 4px;
+  background-color: #f1ae12;
+  border-radius: 13.5px/10px;
+  transform: rotate(90deg);
+}
+
+.element .ellipse-4 {
+  position: absolute;
+  width: 28px;
+  height: 20px;
+  top: 1059px;
+  left: 4px;
+  background-color: #f1ae12;
+  border-radius: 14px/10px;
+  transform: rotate(90deg);
+}
+
+.element .ellipse-5 {
+  position: absolute;
+  width: 26px;
+  height: 20px;
+  top: 1401px;
+  left: 5px;
+  background-color: #f1ae12;
+  border-radius: 13px/10px;
+  transform: rotate(90deg);
+}
+
+.element .ellipse-6 {
+  position: absolute;
+  width: 26px;
+  height: 20px;
+  top: 1874px;
+  left: 5px;
+  background-color: #f1ae12;
+  border-radius: 13px/10px;
+  transform: rotate(90deg);
+}
+
+.element .group {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 126px;
+  left: 0;
+}
+
+.element .cyclone {
+  background-image: url(./img/clip-path-group.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .ellipse-7 {
+  position: relative;
+  width: 10px;
+  height: 13px;
+  top: 17px;
+  left: 13px;
+  background-color: #f1ae12;
+  border-radius: 5.11px/6.65px;
+}
+
+.element .cyclone-wrapper {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 245px;
+  left: 0;
+}
+
+.element .ellipse-wrapper {
+  background-image: url(./img/clip-path-group-1.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .div-wrapper {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 875px;
+  left: 0;
+}
+
+.element .cyclone-2 {
+  background-image: url(./img/clip-path-group-2.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .group-2 {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 1468px;
+  left: 0;
+}
+
+.element .cyclone-3 {
+  background-image: url(./img/clip-path-group-3.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .group-3 {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 1572px;
+  left: 0;
+}
+
+.element .cyclone-4 {
+  background-image: url(./img/clip-path-group-4.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .group-4 {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 1676px;
+  left: 0;
+}
+
+.element .cyclone-5 {
+  background-image: url(./img/clip-path-group-5.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .group-5 {
+  position: absolute;
+  width: 36px;
+  height: 47px;
+  top: 1780px;
+  left: 0;
+}
+
+.element .cyclone-6 {
+  background-image: url(./img/clip-path-group-6.png);
+  height: 47px;
+  background-size: 100% 100%;
+}
+
+.element .element-april {
+  position: absolute;
+  width: 116px;
+  height: 24px;
+  top: 584px;
+  left: 815px;
+}
+
+.element .element-february {
+  position: absolute;
+  width: 164px;
+  height: 24px;
+  top: 931px;
+  left: 787px;
+}
+
+.element .element-november {
+  position: absolute;
+  width: 179px;
+  height: 18px;
+  top: 1267px;
+  left: 784px;
+}
+
+.element .element-december {
+  position: absolute;
+  width: 175px;
+  height: 18px;
+  top: 1612px;
+  left: 791px;
+}
+
+.element .element-march {
+  position: absolute;
+  width: 132px;
+  height: 19px;
+  top: 1956px;
+  left: 801px;
+}
+
+.element .element-january {
+  position: absolute;
+  width: 150px;
+  height: 23px;
+  top: 2431px;
+  left: 806px;
+}
+
+.element .element-october-cyclone {
+  position: absolute;
+  width: 187px;
+  height: 64px;
+  top: 690px;
+  left: 740px;
+}
+
+.element .element-october-cyclone-2 {
+  position: absolute;
+  width: 199px;
+  height: 64px;
+  top: 797px;
+  left: 728px;
+}
+
+.element .element-october-cyclone-3 {
+  position: absolute;
+  width: 150px;
+  height: 64px;
+  top: 1427px;
+  left: 777px;
+}
+
+.element .element-april-cyclone {
+  position: absolute;
+  width: 154px;
+  height: 64px;
+  top: 2020px;
+  left: 774px;
+}
+
+.element .element-november-2 {
+  position: absolute;
+  width: 181px;
+  height: 64px;
+  top: 2123px;
+  left: 747px;
+}
+
+.element .element-may-cyclone {
+  position: absolute;
+  width: 206px;
+  height: 63px;
+  top: 2228px;
+  left: 722px;
+}
+
+.element .element-may-cyclone-2 {
+  position: absolute;
+  width: 159px;
+  height: 63px;
+  top: 2333px;
+  left: 769px;
+}
+
+.element .line-2 {
+  position: absolute;
+  width: 162px;
+  height: 12px;
+  top: 592px;
+  left: 638px;
+}
+
+.element .line-3 {
+  position: absolute;
+  width: 145px;
+  height: 12px;
+  top: 933px;
+  left: 638px;
+}
+
+.element .line-4 {
+  position: absolute;
+  width: 146px;
+  height: 12px;
+  top: 1275px;
+  left: 638px;
+}
+
+.element .line-5 {
+  position: absolute;
+  width: 148px;
+  height: 12px;
+  top: 1616px;
+  left: 638px;
+}
+
+.element .line-6 {
+  position: absolute;
+  width: 162px;
+  height: 12px;
+  top: 1959px;
+  left: 638px;
+}
+
+.element .line-7 {
+  position: absolute;
+  width: 162px;
+  height: 12px;
+  top: 2431px;
+  left: 638px;
+}
+
+.element .group-6 {
+  position: absolute;
+  width: 383px;
+  height: 288px;
+  top: 2293px;
+  left: 244px;
+}
+
+.element .group-7 {
+  position: absolute;
+  width: 328px;
+  height: 29px;
+  top: 3049px;
+  left: 471px;
+}
+
+.element .group-8 {
+  position: absolute;
+  width: 328px;
+  height: 29px;
+  top: 8259px;
+  left: 471px;
+}
+
+.element .group-9 {
+  position: absolute;
+  width: 328px;
+  height: 29px;
+  top: 12111px;
+  left: 471px;
+}
+
+.element .group-10 {
+  position: absolute;
+  width: 919px;
+  height: 276px;
+  top: 2665px;
+  left: 244px;
+}
+
+.element .group-11 {
+  position: absolute;
+  width: 691px;
+  height: 265px;
+  top: 6px;
+  left: 234px;
+}
+
+.element .we-would-be-sleeping {
+  position: absolute;
+  width: 676px;
+  top: 166px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 55px;
+}
+
+.element .text-wrapper {
+  font-style: italic;
+  color: #f1ae12;
+}
+
+.element .span {
+  font-style: italic;
+  color: #ffffff;
+}
+
+.element .p {
+  position: absolute;
+  width: 685px;
+  top: 45px;
+  left: 0;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .text-wrapper-2 {
+  position: absolute;
+  width: 377px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #f1ae12;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .img-2 {
+  position: absolute;
+  width: 166px;
+  height: 276px;
+  top: 0;
+  left: 0;
+}
+
+.element .group-12 {
+  position: absolute;
+  width: 776px;
+  height: 290px;
+  top: 7862px;
+  left: 244px;
+}
+
+.element .group-13 {
+  position: absolute;
+  width: 582px;
+  height: 284px;
+  top: 6px;
+  left: 200px;
+}
+
+.element .i-do-not-have-enough {
+  position: absolute;
+  width: 576px;
+  top: 136px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 55px;
+}
+
+.element .text-wrapper-3 {
+  position: absolute;
+  width: 401px;
+  top: 45px;
+  left: 0;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-4 {
+  position: absolute;
+  width: 321px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #f1ae12;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .img-3 {
+  position: absolute;
+  width: 142px;
+  height: 276px;
+  top: 0;
+  left: 0;
+}
+
+.element .due-to-regular {
+  position: absolute;
+  width: 821px;
+  top: 84px;
+  left: 230px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .text-wrapper-5 {
+  color: #ffffff;
+}
+
+.element .text-wrapper-6 {
+  color: #f1ae12;
+}
+
+.element .text-wrapper-7 {
+  position: absolute;
+  width: 325px;
+  top: 2587px;
+  left: 244px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.element .as-evident-from-the {
+  position: absolute;
+  width: 717px;
+  top: 4145px;
+  left: 269px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .another-hallmark-of {
+  position: absolute;
+  width: 621px;
+  top: 9288px;
+  left: 344px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .text-wrapper-8 {
+  position: absolute;
+  width: 584px;
+  top: 6808px;
+  left: 344px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .overlap-5 {
+  position: absolute;
+  width: 780px;
+  height: 114px;
+  top: 3972px;
+  left: 247px;
+}
+
+.element .evidence-of-temple {
+  position: absolute;
+  width: 780px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .text-wrapper-9 {
+  position: absolute;
+  width: 316px;
+  top: 75px;
+  left: 22px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 500;
+  color: #f1ae12;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.element .a-villager-using-a {
+  position: absolute;
+  width: 721px;
+  top: 9076px;
+  left: 244px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .today-the-handpump {
+  position: absolute;
+  width: 394px;
+  top: 11957px;
+  left: 244px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .offerings-in-form-of {
+  position: absolute;
+  width: 573px;
+  top: 7761px;
+  left: 244px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .rectangle {
+  position: absolute;
+  width: 783px;
+  height: 376px;
+  top: 3123px;
+  left: 240px;
+  object-fit: cover;
+}
+
+.element .overlap-6 {
+  position: absolute;
+  width: 584px;
+  height: 405px;
+  top: 11545px;
+  left: 443px;
+  background-image: url(./img/rectangle-95.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .handpump-in {
+  width: 122px;
+  top: 46px;
+  left: 272px;
+  position: absolute;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .vector-7 {
+  position: absolute;
+  width: 36px;
+  height: 68px;
+  top: 93px;
+  left: 296px;
+}
+
+.element .overlap-7 {
+  position: absolute;
+  width: 957px;
+  height: 436px;
+  top: 11068px;
+  left: 100px;
+}
+
+.element .rectangle-2 {
+  position: absolute;
+  width: 783px;
+  height: 407px;
+  top: 18px;
+  left: 137px;
+}
+
+.element .handpump-in-2 {
+  width: 155px;
+  top: 89px;
+  left: 230px;
+  position: absolute;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .vector-8 {
+  position: absolute;
+  width: 42px;
+  height: 48px;
+  top: 136px;
+  left: 248px;
+}
+
+.element .subtract {
+  position: absolute;
+  width: 957px;
+  height: 436px;
+  top: 0;
+  left: 0;
+  mix-blend-mode: hue;
+}
+
+.element .rectangle-3 {
+  position: absolute;
+  width: 183px;
+  height: 405px;
+  top: 11545px;
+  left: 244px;
+}
+
+.element .rectangle-4 {
+  position: absolute;
+  width: 783px;
+  height: 675px;
+  top: 8395px;
+  left: 244px;
+}
+
+.element .rectangle-5 {
+  position: absolute;
+  width: 384px;
+  height: 375px;
+  top: 3586px;
+  left: 244px;
+}
+
+.element .rectangle-6 {
+  position: absolute;
+  width: 384px;
+  height: 798px;
+  top: 6956px;
+  left: 244px;
+}
+
+.element .rectangle-7 {
+  position: absolute;
+  width: 383px;
+  height: 375px;
+  top: 3586px;
+  left: 644px;
+}
+
+.element .rectangle-8 {
+  position: absolute;
+  width: 383px;
+  height: 236px;
+  top: 7214px;
+  left: 644px;
+}
+
+.element .rectangle-9 {
+  position: absolute;
+  width: 383px;
+  height: 237px;
+  top: 6956px;
+  left: 644px;
+  object-fit: cover;
+}
+
+.element .rectangle-10 {
+  position: absolute;
+  width: 383px;
+  height: 282px;
+  top: 7472px;
+  left: 644px;
+  object-fit: cover;
+}
+
+.element .rectangle-11 {
+  position: absolute;
+  width: 383px;
+  height: 283px;
+  top: 10767px;
+  left: 644px;
+}
+
+.element .rectangle-12 {
+  position: absolute;
+  width: 384px;
+  height: 283px;
+  top: 10767px;
+  left: 244px;
+  object-fit: cover;
+}
+
+.element .text-wrapper-10 {
+  position: absolute;
+  width: 387px;
+  top: 9199px;
+  left: 344px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 500;
+  color: #f1ae12;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.element .overlap-8 {
+  position: absolute;
+  width: 919px;
+  height: 45px;
+  top: 3502px;
+  left: 190px;
+}
+
+.element .temple-and-nearby {
+  width: 672px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .temple-and-nearby-2 {
+  width: 468px;
+  left: 451px;
+  position: absolute;
+  top: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .group-14 {
+  position: absolute;
+  width: 787px;
+  height: 330px;
+  top: 4530px;
+  left: 244px;
+}
+
+.element .maa-panchubarahi {
+  position: absolute;
+  width: 243px;
+  top: 284px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .overlap-group-2 {
+  position: absolute;
+  width: 783px;
+  height: 276px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-84-1.png);
+  background-size: 100% 100%;
+}
+
+.element .text-wrapper-11 {
+  position: absolute;
+  width: 40px;
+  top: 105px;
+  left: 395px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.element .vector-9 {
+  position: absolute;
+  width: 12px;
+  height: 55px;
+  top: 128px;
+  left: 404px;
+}
+
+.element .group-15 {
+  position: absolute;
+  width: 286px;
+  height: 293px;
+  top: 5450px;
+  left: 44px;
+}
+
+.element .rectangle-13 {
+  position: absolute;
+  width: 284px;
+  height: 240px;
+  top: 0;
+  left: 0;
+}
+
+.element .people-shared-the {
+  position: absolute;
+  width: 220px;
+  top: 247px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .group-16 {
+  position: absolute;
+  width: 286px;
+  height: 293px;
+  top: 5450px;
+  left: 343px;
+}
+
+.element .water-reaching-the {
+  position: absolute;
+  width: 268px;
+  top: 247px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .group-17 {
+  position: absolute;
+  width: 286px;
+  height: 293px;
+  top: 5450px;
+  left: 644px;
+}
+
+.element .part-of-a-temple-is {
+  position: absolute;
+  width: 147px;
+  top: 247px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .group-18 {
+  position: absolute;
+  width: 286px;
+  height: 293px;
+  top: 5450px;
+  left: 944px;
+}
+
+.element .remains-of-the {
+  position: absolute;
+  width: 166px;
+  top: 247px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .group-19 {
+  position: absolute;
+  width: 221px;
+  height: 482px;
+  top: 4929px;
+  left: 76px;
+}
+
+.element .group-20 {
+  position: absolute;
+  width: 221px;
+  height: 41px;
+  top: 0;
+  left: 0;
+}
+
+.element .line-8 {
+  position: absolute;
+  width: 12px;
+  height: 267px;
+  top: 59px;
+  left: 104px;
+}
+
+.element .group-21 {
+  position: absolute;
+  width: 219px;
+  height: 139px;
+  top: 344px;
+  left: 1px;
+}
+
+.element .the-sea-was-m {
+  position: absolute;
+  width: 184px;
+  height: 64px;
+  top: 78px;
+  left: 16px;
+}
+
+.element .group-22 {
+  position: absolute;
+  width: 65px;
+  height: 60px;
+  top: 0;
+  left: 78px;
+}
+
+.element .img-4 {
+  position: absolute;
+  width: 52px;
+  height: 18px;
+  top: 41px;
+  left: 6px;
+}
+
+.element .ellipse-8 {
+  width: 27px;
+  height: 35px;
+  top: -4px;
+  left: 18px;
+  border-radius: 13.42px/17.41px;
+  position: absolute;
+  background-color: #f1ae12;
+  transform: rotate(90deg);
+}
+
+.element .group-23 {
+  position: absolute;
+  width: 209px;
+  height: 360px;
+  top: 5054px;
+  left: 373px;
+}
+
+.element .the-sea-was-m-2 {
+  position: absolute;
+  width: 171px;
+  height: 64px;
+  top: 291px;
+  left: 16px;
+}
+
+.element .group-24 {
+  position: absolute;
+  width: 207px;
+  height: 45px;
+  top: 0;
+  left: 0;
+}
+
+.element .line-9 {
+  position: absolute;
+  width: 12px;
+  height: 122px;
+  top: 65px;
+  left: 96px;
+}
+
+.element .group-25 {
+  position: absolute;
+  width: 61px;
+  height: 66px;
+  top: 207px;
+  left: 72px;
+}
+
+.element .img-5 {
+  position: absolute;
+  width: 51px;
+  height: 18px;
+  top: 44px;
+  left: 4px;
+}
+
+.element .ellipse-9 {
+  width: 30px;
+  height: 33px;
+  top: -2px;
+  left: 15px;
+  border-radius: 14.82px/16.36px;
+  position: absolute;
+  background-color: #f1ae12;
+  transform: rotate(90deg);
+}
+
+.element .group-26 {
+  position: absolute;
+  width: 195px;
+  height: 301px;
+  top: 5119px;
+  left: 697px;
+}
+
+.element .the-sea-was-m-3 {
+  position: absolute;
+  width: 171px;
+  height: 64px;
+  top: 241px;
+  left: 10px;
+}
+
+.element .group-27 {
+  position: absolute;
+  width: 193px;
+  height: 41px;
+  top: 0;
+  left: 0;
+}
+
+.element .line-10 {
+  position: absolute;
+  width: 12px;
+  height: 88px;
+  top: 58px;
+  left: 91px;
+}
+
+.element .group-28 {
+  position: absolute;
+  width: 57px;
+  height: 59px;
+  top: 164px;
+  left: 69px;
+}
+
+.element .img-6 {
+  position: absolute;
+  width: 51px;
+  height: 18px;
+  top: 40px;
+  left: 2px;
+}
+
+.element .ellipse-10 {
+  width: 27px;
+  height: 30px;
+  top: -2px;
+  left: 14px;
+  border-radius: 13.29px/15.24px;
+  position: absolute;
+  background-color: #f1ae12;
+  transform: rotate(90deg);
+}
+
+.element .group-29 {
+  position: absolute;
+  width: 753px;
+  height: 97px;
+  top: 10634px;
+  left: 216px;
+}
+
+.element .element-times-area-of {
+  position: absolute;
+  width: 360px;
+  height: 114px;
+  top: 8px;
+  left: 40px;
+}
+
+.element .element-times-area-of-a {
+  position: absolute;
+  width: 244px;
+  height: 67px;
+  top: 26px;
+  left: 498px;
+}
+
+.element .element-hectares-of-wrapper {
+  position: absolute;
+  width: 369px;
+  height: 75px;
+  top: 10527px;
+  left: 451px;
+}
+
+.element .element-hectares-of {
+  position: absolute;
+  width: 216px;
+  height: 66px;
+  top: 12px;
+  left: 75px;
+}
+
+.element .group-30 {
+  position: absolute;
+  width: 58px;
+  height: 60px;
+  top: 9526px;
+  left: 1068px;
+}
+
+.element .img-7 {
+  position: absolute;
+  width: 52px;
+  height: 18px;
+  top: 41px;
+  left: 2px;
+}
+
+.element .ellipse-11 {
+  position: absolute;
+  width: 27px;
+  height: 31px;
+  top: -2px;
+  left: 14px;
+  background-color: #f1ae12;
+  border-radius: 13.42px/15.42px;
+  transform: rotate(90deg);
+}
+
+.element .group-31 {
+  position: absolute;
+  width: 58px;
+  height: 60px;
+  top: 9524px;
+  left: 868px;
+}
+
+.element .group-32 {
+  position: absolute;
+  width: 58px;
+  height: 60px;
+  top: 9529px;
+  left: 649px;
+}
+
+.element .img-8 {
+  position: absolute;
+  width: 51px;
+  height: 18px;
+  top: 41px;
+  left: 2px;
+}
+
+.element .group-33 {
+  position: absolute;
+  width: 218px;
+  height: 267px;
+  top: 5153px;
+  left: 987px;
+}
+
+.element .the-sea-was-a-few {
+  position: absolute;
+  width: 194px;
+  height: 64px;
+  top: 206px;
+  left: 11px;
+}
+
+.element .group-34 {
+  position: absolute;
+  width: 208px;
+  height: 41px;
+  top: 0;
+  left: 3px;
+}
+
+.element .group-35 {
+  position: absolute;
+  width: 61px;
+  height: 60px;
+  top: 128px;
+  left: 78px;
+}
+
+.element .img-9 {
+  position: absolute;
+  width: 51px;
+  height: 18px;
+  top: 41px;
+  left: 4px;
+}
+
+.element .ellipse-12 {
+  width: 27px;
+  height: 33px;
+  top: -3px;
+  left: 16px;
+  border-radius: 13.42px/16.42px;
+  position: absolute;
+  background-color: #f1ae12;
+  transform: rotate(90deg);
+}
+
+.element .human-footprint {
+  position: absolute;
+  width: 23px;
+  height: 33px;
+  top: 81px;
+  left: 108px;
+}
+
+.element .human-footprint-2 {
+  position: absolute;
+  width: 22px;
+  height: 37px;
+  top: 66px;
+  left: 84px;
+}
+
+.element .overlap-9 {
+  position: absolute;
+  width: 1146px;
+  height: 952px;
+  top: 5849px;
+  left: 126px;
+}
+
+.element .temple-wireframe {
+  position: absolute;
+  width: 1146px;
+  height: 951px;
+  top: 1px;
+  left: 0;
+}
+
+.element .text-wrapper-12 {
+  position: absolute;
+  width: 559px;
+  top: 0;
+  left: 546px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.element .overlap-wrapper {
+  position: absolute;
+  width: 164px;
+  height: 61px;
+  top: 133px;
+  left: 942px;
+}
+
+.element .overlap-10 {
+  position: relative;
+  width: 160px;
+  height: 61px;
+}
+
+.element .text-wrapper-13 {
+  position: absolute;
+  width: 160px;
+  top: 23px;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-14 {
+  position: absolute;
+  width: 145px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  color: #f1ae12;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .wireframing-deepak {
+  position: absolute;
+  width: 106px;
+  top: 806px;
+  left: 996px;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.element .group-36 {
+  position: absolute;
+  width: 127px;
+  height: 38px;
+  top: 145px;
+  left: 753px;
+}
+
+.element .text-wrapper-15 {
+  left: 0;
+  color: #f1ae12;
+  position: absolute;
+  width: 23px;
+  top: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-16 {
+  left: 100px;
+  color: #ffffff;
+  position: absolute;
+  width: 23px;
+  top: 0;
+  font-family: "Noto Sans", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.element .line-11 {
+  position: absolute;
+  width: 58px;
+  height: 6px;
+  top: 16px;
+  left: 32px;
+  object-fit: cover;
+}
+
+.element .arrow {
+  left: 429px;
+  position: absolute;
+  width: 12px;
+  height: 26px;
+  top: 3548px;
+}
+
+.element .arrow-2 {
+  left: 828px;
+  position: absolute;
+  width: 12px;
+  height: 26px;
+  top: 3548px;
+}
+
+.element .overlap-11 {
+  position: absolute;
+  width: 721px;
+  height: 616px;
+  top: 9606px;
+  left: 443px;
+}
+
+.element .group-37 {
+  position: absolute;
+  width: 537px;
+  height: 607px;
+  top: 0;
+  left: 184px;
+}
+
+.element .rectangle-14 {
+  position: absolute;
+  width: 136px;
+  height: 607px;
+  top: 0;
+  left: 401px;
+}
+
+.element .rectangle-15 {
+  position: absolute;
+  width: 138px;
+  height: 253px;
+  top: 0;
+  left: 200px;
+}
+
+.element .rectangle-16 {
+  position: absolute;
+  width: 100px;
+  height: 177px;
+  top: 0;
+  left: 0;
+}
+
+.element .rectangle-17 {
+  position: absolute;
+  width: 85px;
+  height: 428px;
+  top: 178px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(139, 100.36, 10.38) 0%, rgba(16, 16, 16, 0.9) 100%);
+}
+
+.element .line-12 {
+  position: absolute;
+  width: 522px;
+  height: 17px;
+  top: 244px;
+  left: 0;
+}
+
+.element .line-13 {
+  position: absolute;
+  width: 284px;
+  height: 17px;
+  top: 169px;
+  left: 0;
+}
+
+.element .line-14 {
+  position: absolute;
+  width: 721px;
+  height: 17px;
+  top: 598px;
+  left: 0;
+}
+
+.element .ground-level-in {
+  position: absolute;
+  width: 183px;
+  height: 58px;
+  top: 9759px;
+  left: 214px;
+}
+
+.element .ground-level-drop-in {
+  position: absolute;
+  width: 244px;
+  height: 58px;
+  top: 9852px;
+  left: 181px;
+}
+
+.element .ground-level-drop-in-2 {
+  position: absolute;
+  width: 244px;
+  height: 58px;
+  top: 10206px;
+  left: 175px;
+}
+
+.element .average-handpump {
+  position: absolute;
+  width: 224px;
+  height: 64px;
+  top: 9618px;
+  left: 189px;
+}
+
+.element .according-to-odisha {
+  position: absolute;
+  width: 584px;
+  top: 10338px;
+  left: 344px;
+  font-family: "Noto Serif", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 42px;
+}
