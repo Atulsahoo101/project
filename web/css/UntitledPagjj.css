@@ -1,0 +1,428 @@
+.untitled-pagjj.main {
+  display: flex;
+  flex-direction: column;
+  background-color: #101010;
+  overflow: hidden;
+}
+.untitled-pagjj .imageGallerySection {
+  position: relative;
+  width: 1440px;
+  height: 1061px;
+  min-height: 1061px;
+}
+.untitled-pagjj .cover {
+  position: absolute;
+  inset: 0 0 33px;
+  width: 1440px;
+  height: 1028px;
+}
+.untitled-pagjj .cover1 {
+  position: absolute;
+  inset: 696px 556px 122px 636px;
+  width: 248px;
+  height: 243px;
+}
+.untitled-pagjj .color1 {
+  position: absolute;
+  inset: 873px 718px 168px 702px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.untitled-pagjj .color11 {
+  position: absolute;
+  inset: 818px 664px 223px 756px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.untitled-pagjj .color12 {
+  position: absolute;
+  inset: 771px 612px 270px 808px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.untitled-pagjj .image {
+  position: absolute;
+  inset: 305px 91px 434px 1013px;
+  width: 336px;
+  height: 322px;
+}
+.untitled-pagjj .color13 {
+  position: absolute;
+  inset: 800px 718px 241px 702px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.untitled-pagjj .locationSection {
+  position: relative;
+  width: 1440px;
+  height: 567px;
+  min-height: 567px;
+}
+.untitled-pagjj .highlight1 {
+  position: absolute;
+  inset: 515px 152px 0 150px;
+  width: 1138px;
+  height: 52px;
+  font: 300 16px/1.62 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .cover3 {
+  position: absolute;
+  inset: 87px 152px 60px 150px;
+  width: 1138px;
+  height: 420px;
+}
+.untitled-pagjj .image1 {
+  position: absolute;
+  inset: 443px 640px 112px 643px;
+  width: 157px;
+  height: 12px;
+}
+.untitled-pagjj .color2 {
+  position: absolute;
+  inset: 428px 619px 127px 707px;
+  width: 114px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .color3 {
+  position: absolute;
+  inset: 463px 662px 92px 683px;
+  width: 95px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .color4 {
+  position: absolute;
+  inset: 187px 204px 368px 1088px;
+  width: 148px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .color5 {
+  position: absolute;
+  inset: 165px 176px 390px 1086px;
+  width: 178px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .color6 {
+  position: absolute;
+  inset: 139px 153px 416px 1159px;
+  width: 128px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .color7 {
+  position: absolute;
+  inset: 479px 687px 76px 634px;
+  width: 119px;
+  height: 12px;
+  background-color: #f1ae12;
+}
+.untitled-pagjj .coastalImpactSection {
+  position: relative;
+  width: 1440px;
+  height: 908px;
+  min-height: 908px;
+}
+.untitled-pagjj .subtitle1_box {
+  position: absolute;
+  inset: 160px 297px 34px 295px;
+  width: 848px;
+  height: 714px;
+}
+.untitled-pagjj .subtitle1 {
+  font: 400 22px/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: black;
+}
+.untitled-pagjj .subtitle1_span0 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span1 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span2 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span3 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span4 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span5 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span6 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span7 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span8 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span9 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span10 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .subtitle1_span11 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle1_span12 {
+  font: 1em/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .hero_title {
+  position: absolute;
+  inset: 60px 543px 808px 295px;
+  display: flex;
+  justify-content: center;
+  width: 602px;
+  height: 40px;
+  font: 500 48px/0.83 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+  text-align: center;
+}
+.untitled-pagjj .templeInformationSection {
+  position: relative;
+  width: 1440px;
+  height: 896px;
+  min-height: 896px;
+}
+.untitled-pagjj .cover4 {
+  position: absolute;
+  inset: 395px 733px 123px 150px;
+  width: 557px;
+  height: 378px;
+}
+.untitled-pagjj .info {
+  position: absolute;
+  inset: 483px 928px 387px 441px;
+  display: flex;
+  justify-content: flex-end;
+  width: 71px;
+  height: 26px;
+  font: 400 12px/2.16 "Noto Sans", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+}
+.untitled-pagjj .highlight11 {
+  position: absolute;
+  inset: 781px 902px 63px 150px;
+  width: 388px;
+  height: 52px;
+  font: 300 16px/1.62 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .image2 {
+  position: absolute;
+  inset: 509px 928px 317px 455px;
+  width: 57px;
+}
+.untitled-pagjj .cover41 {
+  position: absolute;
+  inset: 395px 152px 123px 731px;
+  width: 557px;
+  height: 378px;
+}
+.untitled-pagjj .info1 {
+  position: absolute;
+  inset: 554px 560px 316px 811px;
+  display: flex;
+  justify-content: flex-end;
+  width: 69px;
+  height: 26px;
+  font: 400 12px/2.16 "Noto Sans", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+}
+.untitled-pagjj .highlight12 {
+  position: absolute;
+  inset: 781px 321px 63px 731px;
+  width: 388px;
+  height: 52px;
+  font: 300 16px/1.62 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .image3 {
+  position: absolute;
+  inset: 580px 572px 246px 811px;
+  width: 57px;
+}
+.untitled-pagjj .title_box {
+  position: absolute;
+  inset: 198px 152px 588px 442px;
+  width: 846px;
+  height: 110px;
+}
+.untitled-pagjj .title {
+  font: 400 32px/1.71 "Noto Sans", Helvetica, Arial, serif;
+  color: black;
+}
+.untitled-pagjj .title_span0 {
+  font: 1em/1.71 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .title_span1 {
+  font: 1em/1.71 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .title_span2 {
+  font: 1em/1.71 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .subtitle2 {
+  position: absolute;
+  inset: 104px 294px 750px 441px;
+  width: 705px;
+  height: 42px;
+  font: 400 22px/1.9 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .medium_title {
+  position: absolute;
+  inset: 54px 704px 800px 442px;
+  width: 294px;
+  height: 42px;
+  font: 400 24px/1.75 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pagjj .image5 {
+  position: absolute;
+  inset: 26px 1084px 561px 150px;
+  width: 206px;
+  height: 309px;
+}
+.untitled-pagjj .geographicalFeatureSection {
+  position: relative;
+  width: 1440px;
+  height: 1159px;
+  min-height: 1159px;
+}
+.untitled-pagjj .highlight13 {
+  position: absolute;
+  inset: 1081px 152px 0 150px;
+  width: 1138px;
+  height: 78px;
+  font: 300 16px/1.62 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pagjj .cover31 {
+  position: absolute;
+  inset: 209px 152px 530px 150px;
+  width: 1138px;
+  height: 420px;
+}
+.untitled-pagjj .image4 {
+  position: absolute;
+  inset: 653px 733px 86px 150px;
+  width: 557px;
+  height: 420px;
+}
+.untitled-pagjj .image6 {
+  position: absolute;
+  inset: 57px 483px 1048px 481px;
+  width: 476px;
+  height: 54px;
+}
+.untitled-pagjj .image41 {
+  position: absolute;
+  inset: 653px 152px 86px 731px;
+  width: 557px;
+  height: 420px;
+}
+.untitled-pagjj .highlight2 {
+  position: absolute;
+  inset: 751px 306px 356px 991px;
+  width: 143px;
+  height: 52px;
+  font: 600 16px/1.62 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: -2.41px;
+}
+.untitled-pagjj .image9 {
+  position: absolute;
+  inset: 879px 341px 123px 942px;
+  width: 157px;
+  height: 157px;
+}
+.untitled-pagjj .color8 {
+  position: absolute;
+  inset: 749px 463px 129px 975px;
+  width: 2px;
+  height: 281px;
+  background-color: white;
+}
+.untitled-pagjj .line {
+  position: absolute;
+  inset: 739px 449px 418px 960px;
+  width: 31px;
+  height: 2px;
+  background-color: white;
+}
+.untitled-pagjj .line1 {
+  position: absolute;
+  inset: 1028px 449px 129px 960px;
+  width: 31px;
+  height: 2px;
+  background-color: white;
+}
+.untitled-pagjj .color9 {
+  position: absolute;
+  inset: 732px 451px 410px 961px;
+  width: 28px;
+  height: 17px;
+  background-color: white;
+}
+.untitled-pagjj .color10 {
+  position: absolute;
+  inset: 1020px 451px 121px 961px;
+  width: 28px;
+  height: 18px;
+  background-color: white;
+}
+.untitled-pagjj .shorelineErosionSection {
+  position: relative;
+  margin: 0 0 26px;
+  width: 1440px;
+  height: 396px;
+  min-height: 396px;
+}
+.untitled-pagjj .subtitle1_box1 {
+  position: absolute;
+  inset: 160px 297px 68px 295px;
+  width: 848px;
+  height: 168px;
+}
+.untitled-pagjj .hero_title1 {
+  position: absolute;
+  inset: 60px 634px 296px 295px;
+  width: 511px;
+  height: 40px;
+  font: 500 48px/0.83 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
