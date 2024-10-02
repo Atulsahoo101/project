@@ -3,17 +3,16 @@
   flex-direction: column;
   background-color: #101010;
   overflow: hidden;
+  padding: 50px;
 }
 .untitled-pagetyy .coastalErosionSection {
   position: relative;
-  width: 1920px;
   height: 2502px;
   min-height: 2502px;
 }
 .untitled-pagetyy .cover {
   position: absolute;
   inset: 0 0 1474px;
-  width: 1920px;
   height: 1028px;
 }
 .untitled-pagetyy .cover1 {
