@@ -1,0 +1,57 @@
+body{
+  background-color: #101010;
+
+}
+
+.untitled-pageww.root {
+  position: relative;
+  width: 375px;
+  height: 667px;
+  min-height: 667px;
+  overflow: hidden;
+}
+.untitled-pageww .image {
+  position: absolute;
+  inset: 20px 149px 338px 20px;
+  width: 206px;
+  height: 309px;
+}
+.untitled-pageww .highlight {
+  position: absolute;
+  inset: 387px auto auto 20px;
+  width: 294px;
+  height: 60px;
+  font: 400 16px/1.87 "Noto Serif", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pageww .subtitle {
+  position: absolute;
+  inset: 337px auto auto 20px;
+  width: 245px;
+  height: 42px;
+  font: 400 20px/2.1 "Noto Serif", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pageww .subtitle1_box {
+  position: absolute;
+  inset: 463px auto auto 20px;
+  padding: 5px;
+  width: 335px;
+  height: 90px;
+}
+.untitled-pageww .subtitle1 {
+  font: 400 20px/1.5 "Noto Sans", Helvetica, Arial, serif;
+  color: black;
+}
+.untitled-pageww .subtitle1_span0 {
+  font: 1em/1.5 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+}
+.untitled-pageww .subtitle1_span1 {
+  font: 1em/1.5 "Noto Sans", Helvetica, Arial, serif;
+  color: white;
+}
+.untitled-pageww .subtitle1_span2 {
+  font: 1em/1.5 "Noto Sans", Helvetica, Arial, serif;
+  color: #f1ae12;
+}

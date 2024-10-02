@@ -4,6 +4,24 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.css" />
+    <script>const smallScreenThreshold = 500;
+
+      // Function to check screen size and redirect if necessary
+      function checkScreenSize() {
+          const screenWidth = window.innerWidth;
+      
+          // Redirect to another page if screen width is less than 500px
+          if (screenWidth < smallScreenThreshold) {
+              window.location.href = "web/UntitledPageww.html";  // Redirect to mobile page
+          }
+      }
+      
+      // Initial check when the page loads
+      checkScreenSize();
+      
+      // Add event listener for screen resize to check dynamically
+      window.addEventListener('resize', checkScreenSize);
+      </script>
   </head>
   <body>
     <div>
